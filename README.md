@@ -53,3 +53,6 @@ After implementing the core features, I added some extras:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ngatia-boop/event-guest-list-manager.git
+
+  ## 🤖 Author
+  Ann Ngatia
