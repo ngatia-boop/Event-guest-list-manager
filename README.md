@@ -17,12 +17,12 @@ This project was built as part of a **Phase 1 DOM manipulation code challenge**,
 
 ## 🛠 Project Structure
 
-event-guest-list-manager/
+```event-guest-list-manager/
 ├── index.html # HTML layout of the app
 ├── style.css # Styling for the app
 └── src/
 └── index.js # JavaScript logic for interactivity
-
+```
 
 ---
 
