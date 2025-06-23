@@ -33,19 +33,8 @@ This project was built as part of a **Phase 1 DOM manipulation code challenge**,
 - ✅ The guest’s name is **displayed in a list** below the form.
 - ✅ Each guest in the list includes a **"Remove" button** to delete them.
 - ✅ Guest list is **limited to 10 entries**. Exceeding triggers an alert.
-- ✅ Each guest has a **"Toggle RSVP"** button to switch between **Attending** and **Not Attending** status.
 
 ---
-
-## 🌟 Stretch Features
-
-After implementing the core features, I added some extras:
-
-- 🏷️ Guests can be categorized as **Friend, Family, or Colleague**, with visual color tags.
-- ⏰ A **timestamp** shows when each guest was added.
-- ✏️ An **Edit button** allows users to update a guest’s name directly in the list.
-- 🎨 Clean, user-friendly UI with CSS styling for readability and interaction feedback.
-
 ---
 
 ## 👀 How to Use
